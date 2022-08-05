@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print('Test commit 1.')  # Press Ctrl+F8 to toggle the breakpoint.
+    print('Test commit 1. Test 2 here')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
